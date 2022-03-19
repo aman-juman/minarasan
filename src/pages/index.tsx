@@ -19,6 +19,7 @@ interface IHotel {
 
 }
 
+
 function IndexPage() {
     const [state, setState] = useState([
         {title: "Aray Deluxe", description: "001"},
