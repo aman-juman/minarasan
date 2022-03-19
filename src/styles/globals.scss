@@ -1,0 +1,117 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background: url("../../public/background.jpg") no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@mixin medium {
+  @media (max-width: #{800px}) {
+    @content
+  }
+}
+
+@mixin mobile {
+  @media (max-width: #{630px}) {
+    @content
+  }
+}
+
+
+.swiper {
+  width: 100%;
+  height: 600px;
+  @include medium {
+    height: 400px;
+  }
+  @include mobile {
+    height: 280px;
+  }
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.call {
+  display: none;
+  @include mobile {
+    display: block;
+  }
+  color: white;
+  background-color: #22b53a;
+  font-weight: bold;
+  font-size: 18px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+
+  .call-href {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.whatsapp{
+  width: 200px;
+  height: 40px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 16px;
+  background-color: #22b53a;
+  border-radius: 5px;
+  position: fixed;
+  right: 10px;
+  bottom: 90px;
+  z-index: 1;
+}
+
+
+
