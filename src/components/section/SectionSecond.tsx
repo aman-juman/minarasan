@@ -15,24 +15,24 @@ export const SectionSecond: FC = (): JSX.Element => {
                         <h2 className={styles.callText}>
                             WhatsApp:
                         </h2>
-                        <div className={styles.callBtn}>
+                        <a href="https://wa.me/77024609006?text=Я%20хочу%20забронировать%20номер%20в%20санаторий" className={styles.callBtn}>
                             <WhatsAppIcon />
                             <span>
-                                +7 (705) 393 16 15
+                                +7 (702) 460 90 06
                             </span>
-                        </div>
+                        </a>
                     </div>
                     <div className={styles.callBlock}>
                         <h2 className={styles.callText}>
                             Позвонить:
                         </h2>
-                        <div className={styles.callBtn}>
+                        <a href="tel:+7 702 460 90 06" className={styles.callBtn}>
                             <LocalPhoneIcon/>
                             <span>
-                                +7 (705) 393 16 15
+                                +7 (702) 460 90 06
                             </span>
 
-                        </div>
+                        </a>
                     </div>
                 </div>
                 <span></span>

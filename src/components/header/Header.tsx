@@ -16,7 +16,7 @@ const Header : FC =() =>{
                 </div>
                 <div className={styles.item}>
                     <PhoneEnabledIcon style={{fontSize: "18px"}} />
-                    Моб. +7 (705) 393 16 15 • Акымбай
+                    Моб. +7 (702) 460 90 06 • Акымбай
                 </div>
             </div>
             <div className={styles.logoWrap}>
