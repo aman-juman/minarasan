@@ -11,7 +11,9 @@ body {
 }
 
 .container {
-  width: 1280px;
+  max-width: 1180px;
+  width: 100%;
+  padding: 20px;
   margin: 0 auto;
 }
 
@@ -51,9 +53,7 @@ a {
 .swiper-slide {
   text-align: center;
   font-size: 18px;
-  background: #fff;
 
-  /* Center slide text vertically */
   display: -webkit-box;
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -111,6 +111,19 @@ a {
   right: 10px;
   bottom: 90px;
   z-index: 1;
+}
+.mySwiperTwo{
+  width: 70%;
+  height: 360px;
+  @include medium {
+    height: 280px;
+  }
+  .swiper-slide{
+    border: 4px solid #d0af00;
+    border-radius: 5px;
+
+  }
+
 }
 
 

@@ -35,6 +35,7 @@ export const SEO = ({title}) => {
                 <link href="https://fonts.googleapis.com/css2?family=Andika+New+Basic:wght@400;700&display=swap"
                       rel="stylesheet"/>
                 <meta name="theme-color" content="#EF4444"/>
+
         </Head>
 )
 }

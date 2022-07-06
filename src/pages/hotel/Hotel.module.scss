@@ -1,0 +1,32 @@
+.table{
+  width: 100%;
+  background-color: white;
+  border-spacing: 0px;
+
+  .tr{
+    background-color: #d9edf7;
+    line-height: 1.7;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    border: none;
+    padding: 10px;
+  }
+  .td{
+    padding: 10px;
+    border-bottom: 1px solid gray;
+    font-weight: bold;
+  }
+
+  .tbody{
+    border: 1px solid gray;
+    line-height: 1.7;
+  }
+}
+
+.list{
+  li{
+    font-weight: bold;
+    margin: 10px 0;
+  }
+}

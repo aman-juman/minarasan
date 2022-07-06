@@ -42,9 +42,10 @@
     .callBtn{
       background-color: #22b53a;
       border-radius: 30px;
-      width: 250px;
+      width: 270px;
       display: flex;
       align-items: center;
+      justify-content: center;
       padding: 15px;
       cursor: pointer;
       transition: all 0.2s ease-in-out;
@@ -55,6 +56,7 @@
         background-color: white;
         border: 2px solid #22b53a;
         color: #22b53a;
+        padding: 10px;
       }
       span{
         font-size: 20px;

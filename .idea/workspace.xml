@@ -2,66 +2,176 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94141e53-aef7-4abe-95f0-87772196203f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.next/BUILD_ID" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/12.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/12.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/19.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/19.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/3.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/4.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/3.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/5.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/export-marker.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/images-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/next-server.js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/prerender-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/required-server-files.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/routes-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/675.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/859.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/chunks/font-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/font-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/500.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/[id].html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/[id].js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_app.js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/_document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_document.js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_error.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/pages/_error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/_error.js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/pages/index.js.nft.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/server/webpack-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/.next/server/webpack-runtime.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/TF9ee3A7rW1n_1WIWdkd6/_buildManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/TF9ee3A7rW1n_1WIWdkd6/_middlewareManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/TF9ee3A7rW1n_1WIWdkd6/_ssgManifest.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/32-2b1c6c163b2cc822.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/framework-5f4595e5518b5600.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/main-01df828e572375b9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/[id]-1513180b240772c6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app-b2300aed22f24ee8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_error-2280fa386d040b66.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index-2dafbabf9fec206a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/polyfills-5cd94c89d3acac5f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/chunks/webpack-2e51481b1d484a05.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/css/61e76d3013dce49a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/static/css/e09e7eaa3cd792cb.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/.next/trace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/call/Call.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/call/Call.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/call/Whatsapp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/call/Whatsapp.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/AyaZhan/HotelListItemAyaZhan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Erdaulet/HotelListItemErdaulet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Kazakhstan/HotelListItemKazkhstan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Marzhan/HotelListItemMarzhan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Oksi/HotelListItemOksi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/SalmaKaravan/HotelListItemSalmaKaravan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hotel/hotels/altynai/Hotel:istItemAltynai.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider/SliderTwo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/Hotel.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/altynai.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/aray.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/ayazhan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/erdaulet.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/kazakhstan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/marzhansu.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/oksi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/hotel/salmakaravan.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/0oQWabiB6MZYsgauizQsivdTUKvhmLOMCjEyOCFyCvU=/60.1647674935706.nFwqTrznoT9GcY80t8dh8n4cahF+KPNq9LY+ceJi0ig=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/1+j2BVyDCb3xazWzAV0IxQijzEjteloPLSF+GKVkUYE=/60.1647675478549.1GGQUWYQXdYxsBWf34P7yadET3DcyqQFO5qmCaIB428=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/31jW3q02LD0luARIcoTznIJ01dHFURODF-gN8u1pmGs=/60.1647721769860.kceeXA+2Uzj6Enym+G3N8KYg9DgeGShyDk799LKtvJo=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/3Wa3lrx29Swn2uJmn8Z78SJWlR5ZC98FgiymRE8nu0Y=/60.1647675212223.tYvQiTC4mzZMciHV2JdR8oyvnQDCtAn5xJ4YwmrXd8g=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/6MjnISP2SwX-zWx0gYcjmkw5fMSCuSpgwYWCIhXA1lc=/60.1647675478904.MbTqtItqQmxXB6x3P6VxSDHiMHI0Hcd2szefY0F5NVk=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/8NPaeXaQHa+tfH1rikXEtj+gvHLhwtpIepHDr8+uevk=/60.1647675212863.nFwqTrznoT9GcY80t8dh8n4cahF+KPNq9LY+ceJi0ig=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/8WxTT-vjJqeWu4mutqjIbBIEMoX55-IExtD4T8pmiq8=/60.1647535534567.-Yx11+WVRSDPP844eewoGR6WIYnd31UKEOYvVSu48aI=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/ACrAd6n7JNbmpiUXQ3YXfngUb9yUdqUhxFJEQJb1IIs=/60.1647535556758.ZF+nfAO7KdneR8fDTMtJdtTBrTGyAueVw9dSmAE5zxs=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/AXDp0wyYFSN5FLrqv5-+s5btmAvLitLcrgBuGWVNqQ0=/60.1647723658120.Nl1VB4lsQO-rCLSz0tvAL5XXqi3iYKcK0HDdDmTPzqA=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/Cl1krAdEOtUG38OWabL2HtLkV6GYiG9s29dFgvVZ+AI=/60.1647675212016.MQLHr0Z1aIVnz6gNGoqCPwfEzqMbE-MjIv7cDO68I4o=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/FoEXr3-B6-dNjNEGgNG0SBgkmUj3cp9C-L7B3IBpztM=/60.1647724935843.ZW3OJvpJBeYw5Bm4xjcVYhhNUB72E1SIDg-MpMfO1sg=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/H-gJyvRstGQUyP85UJR1hxfWonlcuL-omJPptN6AH0I=/60.1647675016030.7eROhS323hUdh0DpOdSqRda0d+tfP-2ZlN+l5tOYweE=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/Ip1IaQDY3dETY6aGGAm8YloAq5giXAg0poknjZT9p1k=/60.1647675209908.tYvQiTC4mzZMciHV2JdR8oyvnQDCtAn5xJ4YwmrXd8g=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/K678Ay58J75v0uBOnIvtDDU+JsQSP+4nsiuoTN+Pw94=/60.1647723687001.VHkS3qbgP0iHttZVTIzSYMTTmTewgeQZMat68vqOcpE=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/KziUS-7A1zMVSWWOYyC8Tt4IHhqZ1qbxCLmed24ETxo=/60.1647675212642.8R07W9MxSwbNO0C1cE+O7zKd2ldHwYCntYbH622LVWc=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/LEle02ydsz4qSCvTpb6rOlyazZQtIXfkPKRdmy2gya0=/60.1647724065713.ZW3OJvpJBeYw5Bm4xjcVYhhNUB72E1SIDg-MpMfO1sg=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/MZDV+ULdPZK4BBD1wYmwSd1V4XC-5UrISUv-OkLOXgw=/60.1647671928648.TucovM4KOPUlZkVcNLXH3KW7ZWirWmfRV9RKi1ZAmhQ=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/MfETgm3p2eKEa6qAy9SAlMQTHldbDeZgbCesGjNzZT8=/60.1647683108594.pOKs7nV+xp1zErKtlZdvg+msP10+CHpIzwJ5JduuUns=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/N5FLcIURGDGiJ39UwiwVG7T9u6NcI6O73qbSD3eMryU=/60.1647675478680.N8yLw8V6nqk4X90auhbFcJvdkGmFDByOOBiFUwHxSlE=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/NhbiGLFZ7GMtqTr+LgpQ-MfPCaV5BYL3CBMXEDCvYPw=/60.1647682590573.hsMsFd5yutmYpoINrZrpNp0RCGbTFrRH5LQ6rF5gjF4=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/Pc+0y4utusy5cQT1tFGUhIrGqcvhUi8kZUkYs5LIggM=/60.1647671929306.OZACGWIZEjPhbWDeMIUGJXHgwdzUQ3rMEfgrbuiFENo=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/RL1jCp-Kw+dbnMF1La8RLgfUz6FI7EXuNVBP6DfiRoc=/60.1647675016208.sZAgtPBYP9Ru5xDg68fG75yAVhXjp6qFFbxBdDoXJXI=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/TV7Cx+GoRCvYnsHkMcxndMzdWQGTelmClS2Y6JolF0E=/60.1647535534784.7GgECIZtD6o1u1y4ZmSJONolGEBJn-0ZYAd7hB+nUe8=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/UWbRQDe4Ec5au3L5AoWpPRjwi0E4Lx+IpQO6op-96Bk=/60.1647675479004.cDWUsnBxX1Tg3S+Q4UUh65YwoP49BlCUUu+lSJhlwGY=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/WVIb0AIIgiaqJKDGdiH44FkgIheuKX37mKs5HoEYerE=/60.1647675016289.l0UrskodVi+cLzxdj6srJoa2rDZSC3j6hxUFHA+jXmI=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/X2-rXunAwWud6NaXjXuHyt5v9VRAFq2sh01+-vqAXKA=/60.1647675566456.e7hwX6sj5gjMPcUubgxwKk0jb1O9-WzQfuPP1t7VpOc=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/XSvc-aLod0jkJqQfUGeesHGbF-JyyzS86fsa3C0Q+vs=/60.1647679652777.+wN9h-YeDZpGerQqHN0a+8gMRQPEW5F-8AefxbdMnUM=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/ZiG+xKi9pD2BiE65Y-C4B9RcBx2B1hNFF1xBmYvZwlk=/60.1647674032887.ZW3OJvpJBeYw5Bm4xjcVYhhNUB72E1SIDg-MpMfO1sg=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/cEdo3xcanA9Z-tOzhsTmvxIwwVZa+6UsGX7ZaI-Trss=/60.1647675566867.LM1lt3tEc1G81yF-udiLcLwBx0jyH9ZJDqLHdJCYCkQ=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/dA0NT581vsqYHtSBWkGdQeLrwURY-50679op9QYPizY=/60.1647674846607.MQLHr0Z1aIVnz6gNGoqCPwfEzqMbE-MjIv7cDO68I4o=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/dCStHiJFQ9Xvs-uuxN5IGDuKDU1U0bVZXowZB5SMHOE=/60.1647675210339.nFwqTrznoT9GcY80t8dh8n4cahF+KPNq9LY+ceJi0ig=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/gFZpFmVkxljs5ehCpnh2OPs74V2kkCdCQjWsYBQFKqk=/60.1647679652951.HDSieVbmGnoE1tpeM9GrwfOGnVEJoQh+HKGjwzTIppM=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/gHaGk4y3Nf+kdmL8vzQROdGhNtQjxzvPjWH+zp9vZeA=/60.1647675478792.wCY3ToOYDOzWrUN76gpKY0Z2PA9HgXqLZb-Pg9Hcab0=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/gmKSfZXf-52xdq8KIv2wNUeCzpg7lycOA95k-ZqcIGM=/60.1647675210114.8R07W9MxSwbNO0C1cE+O7zKd2ldHwYCntYbH622LVWc=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/hPAH0qdidEY5yK8lBrDEE2wiBfMZvIMHTwcXMK1tYmc=/60.1647682696764.8R07W9MxSwbNO0C1cE+O7zKd2ldHwYCntYbH622LVWc=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/hZZ9VBuwrzPlyRtJbllrucmp+Ya-Kwj1L7Fesp6EoRg=/60.1647675209695.MQLHr0Z1aIVnz6gNGoqCPwfEzqMbE-MjIv7cDO68I4o=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/iDh2s3u5yohF6P2lV5VXmCc+6NPMnL03DVlZmThbEhY=/60.1647535556623.sZk1pnjwVRiL+T-QVFMipuYnF6qVp6IGg1rwzemrYRo=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/j1KAyF1tK4Ok7qT2QVzomC+7p0AWglkbF752zDZ1ZOI=/60.1647674948168.lgxIDpOHBv7+guiIZq1zSSw+Sf71456q-wcq6+6rrcE=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/jHU2CGE5uTSX5mYgImhA3e8oMKn1sU+gx6XiY3PEd7E=/60.1647674846816.tYvQiTC4mzZMciHV2JdR8oyvnQDCtAn5xJ4YwmrXd8g=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/o6r+Dw0k-R+IJnwQKWOaSHQpJkXZyRl6wC8yjJPbFZA=/60.1647675597053.EVzAaM-w+mjyPctrScZu0M7JxxQUvPk2u88l7bObslc=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/obg6IMBwbfIUgs9VeTXS7u93kwavP5rzLNDvKXq94BI=/60.1647675013480.y8FV8KYNgnh1E-DlKQ388+VyLy0nuH4OKhcDN+JjRFY=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/r3omjxM-T1K7R4EaJOH67S9fN2wy+MX5YQv0RO2mV1A=/60.1647679653108.RZF2mg5ekpg8ruwCejjP6lcgnt5ih5rhHM2iSlEdieY=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/rX4Nkn3avIhv47hqOPJHXscJzvAAtJ7PLGtgQV3AL8k=/60.1647682591204.JHI-+nFIXnLiP2QxYO+OkTunZyJgCj3-1Vtw77a0aIo=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/tUU4cHlVoAgTJU58DHXi0pKz1ot+Fh+bWjWXAcxnfig=/60.1647683108474.F6Iw41fLiCpr8sO6sG+YRpRSrthyoCXI4oxW35omM2Y=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/vpcwBMaSZmBVLXtC5GlrLeybd6iQ-8AQjz2ppsfWPyM=/60.1647675016130.k5xCG-LnolnbwLx8Z-d2FHt+62xROwZVZc5R4rGrHjY=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/images/wUKff87eKoEYeuAnB1+NBCjT5r1FjGyEmm969LRWCCo=/60.1647700646452.kceeXA+2Uzj6Enym+G3N8KYg9DgeGShyDk799LKtvJo=.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/next-server.js.nft.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development-fallback/0.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development-fallback/1.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development-fallback/index.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development-fallback/index.pack.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/0.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/1.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/10.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/11.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/12.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/13.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/14.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/15.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/16.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/17.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/18.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/19.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/2.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/3.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/4.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/6.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/7.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/8.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/9.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-development/index.pack.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-production/0.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/client-production/index.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/0.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/1.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/10.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/11.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/12.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/13.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/14.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/2.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/3.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/4.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/5.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/6.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/7.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/8.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/9.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-development/index.pack.old" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-production/0.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/cache/webpack/server-production/index.pack" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/react-loadable-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/middleware-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/[id].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/_document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/server/webpack-runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/amp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/[id].js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/_error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/polyfills.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/react-refresh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/chunks/webpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/_buildManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/_middlewareManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/development/_ssgManifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/background.221ae382.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/logo.435926e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_Slide_01.e67bd0aa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_Slide_02.30f2e1b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_Slide_03.9f5b3a80.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_Slide_04.d53a19a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_Slide_05.b365824e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/media/saryagash.com_.kz_araydeluxe.c9004486.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/3ae5c27068745761.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/488040b6b143ac2d.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/79834187ad1eeba7.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/c8182a3dfe91a54d.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/pages/index.488040b6b143ac2d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.3ae5c27068745761.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.488040b6b143ac2d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.79834187ad1eeba7.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/static/webpack/webpack.c8182a3dfe91a54d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/trace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SEO.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SEO.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/section/SectionSecond.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/SectionSecond.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/SliderOne.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/slider/SliderOne.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hotel/HotelList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hotel/HotelList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hotel/HotelListItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Aray/HotelListItemAray.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/hotel/saryagash.com_.kz_araydeluxe.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/hotel/hotels/Aray/saryagash.com_.kz_araydeluxe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/section/Section.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/section/Section.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/[id].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -73,88 +183,128 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="21" selection-start-line="21" selection-end-line="21" />
-                  <folding>
-                    <element signature="e#0#31#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/components/call/Call.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="231">
-                  <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/components/section/SectionSecond.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="209">
-                  <caret line="17" column="113" selection-start-line="17" selection-start-column="113" selection-end-line="17" selection-end-column="113" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/components/call/Whatsapp.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="252">
-                  <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/components/SEO.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="364">
-                  <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-                  <folding>
-                    <element signature="e#0#28#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/components/call/Whatsapp.tsx">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="147">
-                  <caret line="7" column="122" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="122" />
-                  <folding>
-                    <element signature="e#0#25#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SEO.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="83" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hotel/HotelList.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/hotel/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Marzhan/HotelListItemMarzhan.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/hotel/kazakhstan.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4683">
+              <caret line="247" selection-start-line="247" selection-end-line="247" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/hotel/marzhansu.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4872">
+              <caret line="252" selection-start-line="252" selection-end-line="252" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/hotel/oksi.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1701">
+              <caret line="96" selection-start-line="96" selection-end-line="96" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/hotel/salmakaravan.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3633">
+              <caret line="194" column="50" selection-end-line="293" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -167,44 +317,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/pages/index.js" />
-        <option value="$PROJECT_DIR$/src/pages/_document.ts" />
-        <option value="$PROJECT_DIR$/src/pages/[id].tsx" />
-        <option value="$PROJECT_DIR$/src/components/nav/Nav.ts" />
-        <option value="$PROJECT_DIR$/src/components/nav/Header.tsx" />
-        <option value="$PROJECT_DIR$/src/components/nav/Header.module.scss" />
-        <option value="$PROJECT_DIR$/src/components/header/MainSlider.tsx" />
-        <option value="$PROJECT_DIR$/src/components/header/slid.ts" />
         <option value="$PROJECT_DIR$/src/components/header/slider.css" />
         <option value="$PROJECT_DIR$/src/components/header/SliderOne.module.scss" />
-        <option value="$PROJECT_DIR$/src/components/header/SliderOne.tsx" />
-        <option value="$PROJECT_DIR$/src/components/header/Header.module.scss" />
         <option value="$PROJECT_DIR$/src/components/sectionOne/SectionOne.ts" />
-        <option value="$PROJECT_DIR$/src/pages/_document.tsx" />
         <option value="$PROJECT_DIR$/src/components/Layout.tsx" />
         <option value="$PROJECT_DIR$/src/pages/_app.tsx" />
-        <option value="$PROJECT_DIR$/src/styles/globals.scss" />
         <option value="$PROJECT_DIR$/src/components/footer/Footer.tsx" />
-        <option value="$PROJECT_DIR$/src/components/hotel/HotelList.tsx" />
         <option value="$PROJECT_DIR$/src/components/section/SectionFirst.tsx" />
-        <option value="$PROJECT_DIR$/src/components/hotel/HotelListItem.tsx" />
         <option value="$PROJECT_DIR$/src/components/hotel/HotelList.module.scss" />
-        <option value="$PROJECT_DIR$/src/components/section/Section.module.scss" />
         <option value="$PROJECT_DIR$/src/components/hotel/HotelListItem.module.scss" />
-        <option value="$PROJECT_DIR$/src/pages/index.tsx" />
-        <option value="$PROJECT_DIR$/src/components/SEO.tsx" />
-        <option value="$PROJECT_DIR$/src/components/header/Header.tsx" />
         <option value="$PROJECT_DIR$/src/components/call/Call.tsx" />
         <option value="$PROJECT_DIR$/src/components/call/Whatsapp.tsx" />
         <option value="$PROJECT_DIR$/src/components/section/SectionSecond.tsx" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/Aray.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/Aray.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/about.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/HotelListItem.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/HotelListItem.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/HotelListItemAray.tsx" />
+        <option value="$PROJECT_DIR$/src/components/section/Section.module.scss" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/Hotel.module.scss" />
+        <option value="$PROJECT_DIR$/src/components/header/SliderOne.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Aray/HotelListItemAray.tsx" />
+        <option value="$PROJECT_DIR$/src/components/header/Header.module.scss" />
+        <option value="$PROJECT_DIR$/src/components/header/Header.tsx" />
+        <option value="$PROJECT_DIR$/src/components/slider/SliderTwo.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/Oksi.tsx" />
+        <option value="$PROJECT_DIR$/src/styles/globals.scss" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Oksi/HotelListItemOksi.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Altynai/HotelListItemAltynai.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Altynai/HotelListItemOksi.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/altynai/Hotel:istItemAltynai.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Kazakhstan/HotelListItemKazkhstan.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/SalmaKaravan/HotelListItemSalmaKaravan.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/AyaZhan/HotelListItemAyaZhan.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Erdaulet/HotelListItemErdaulet.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/HotelList.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/marzhanSu.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/ayaZhan.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/altynai.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/aray.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/ayazhan.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/erdaulet.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/kazakhstan.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/marzhansu.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/oksi.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/salmakaravan.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/index.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/_document.tsx" />
+        <option value="$PROJECT_DIR$/src/components/SEO.tsx" />
+        <option value="$PROJECT_DIR$/src/components/hotel/hotels/Marzhan/HotelListItemMarzhan.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/hotel/index.tsx" />
       </list>
     </option>
   </component>
@@ -213,7 +376,9 @@
     <option name="width" value="1920" />
     <option name="height" value="1052" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -230,6 +395,11 @@
             <path>
               <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
               <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -237,20 +407,6 @@
               <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="call" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="header" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
@@ -263,14 +419,14 @@
               <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
               <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="section" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
               <item name="MINARASAN" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="hotel" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MINARASAN" type="b2602c69:ProjectViewProjectNode" />
@@ -288,14 +444,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jsx.switch.disabled" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/hotel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/hotel/hotels/altynai" />
+      <recent name="$PROJECT_DIR$/src/components/slider" />
+      <recent name="$PROJECT_DIR$/src/components/hotel/hotels/Aray" />
+      <recent name="$PROJECT_DIR$/src/components/hotel/hotels" />
+      <recent name="$PROJECT_DIR$/src/pages/hotel" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/hotel/hotels" />
+      <recent name="$PROJECT_DIR$/src/pages/hotel" />
       <recent name="$PROJECT_DIR$/src/components/hotel" />
       <recent name="$PROJECT_DIR$/src/components/section" />
     </key>
@@ -328,21 +493,29 @@
       <workItem from="1647668265584" duration="9664000" />
       <workItem from="1647693389276" duration="4757000" />
       <workItem from="1647715947018" duration="7949000" />
+      <workItem from="1647754362104" duration="1547000" />
+      <workItem from="1647922058635" duration="3953000" />
+      <workItem from="1647940459187" duration="619000" />
+      <workItem from="1647967493213" duration="15961000" />
+      <workItem from="1648011099964" duration="12176000" />
+      <workItem from="1648053618311" duration="461000" />
+      <workItem from="1648054141246" duration="6000" />
+      <workItem from="1648099873734" duration="1836000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37013000" />
+    <option name="totallyTimeSpent" value="73572000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1920" height="1052" extended-state="6" />
+    <frame x="1920" y="0" width="1280" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26254" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.4376013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -350,8 +523,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32964602" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20731707" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21281464" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -359,11 +532,11 @@
       <window_info anchor="right" id="Json Parser" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27534685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32964602" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -371,8 +544,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32964602" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.17367257" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.20731707" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -384,57 +557,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/[id].tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/styles/variables.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/MainSlider.tsx" />
     <entry file="file://$PROJECT_DIR$/src/components/header/slid.ts" />
     <entry file="file://$PROJECT_DIR$/src/components/header/SliderOne.module.scss" />
-    <entry file="file://$PROJECT_DIR$/src/components/header/SliderOne.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/sectionOne/SectionOne.ts" />
     <entry file="file://$PROJECT_DIR$/src/components/Layout.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/_document.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -445,34 +578,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/globals.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="107" column="27" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/Header.module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/footer/Footer.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/hotel/HotelListItem.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="39" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -489,27 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/hotel/HotelList.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/hotel/HotelList.module.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section/Section.module.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
@@ -520,40 +612,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SEO.tsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/[id].tsx" />
+    <entry file="file://$PROJECT_DIR$/src/pages/about.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/components/section/SectionSecond.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="33" column="71" selection-start-line="33" selection-start-column="71" selection-end-line="33" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/header/Header.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/call/Call.tsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="588">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -562,18 +626,304 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/call/Whatsapp.tsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="147">
+          <caret line="7" column="122" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="122" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/section/SectionSecond.tsx">
+    <entry file="file://$PROJECT_DIR$/src/components/call/Call.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/section/Section.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/Header.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/Header.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/slider/SliderOne.tsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="17" column="113" selection-start-line="17" selection-start-column="113" selection-end-line="17" selection-end-column="113" />
+          <caret line="27" column="29" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/Hotel.module.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/slider/SliderTwo.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Oksi/HotelListItemOksi.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Altynai/HotelListItemAltynai.tsx" />
+    <entry file="file://$PROJECT_DIR$/src/styles/globals.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Altynai/HotelListItemOksi.tsx" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Aray/HotelListItemAray.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="41" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/altynai/Hotel:istItemAltynai.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Kazakhstan/HotelListItemKazkhstan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/SalmaKaravan/HotelListItemSalmaKaravan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="18" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/AyaZhan/HotelListItemAyaZhan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="18" lean-forward="true" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Erdaulet/HotelListItemErdaulet.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/erdaulet/9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/erdaulet/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/altynai.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="160" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/aray.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/ayazhan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2667">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/_document.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/erdaulet.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3087">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SEO.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="83" selection-start-line="7" selection-start-column="83" selection-end-line="7" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/_app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/HotelList.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/hotel/hotels/Marzhan/HotelListItemMarzhan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/kazakhstan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4683">
+          <caret line="247" selection-start-line="247" selection-end-line="247" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/marzhansu.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4872">
+          <caret line="252" selection-start-line="252" selection-end-line="252" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/oksi.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1701">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/salmakaravan.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3633">
+          <caret line="194" column="50" selection-end-line="293" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/hotel/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="39" column="39" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
